@@ -1,0 +1,1 @@
+print("Halo, saya sedang belajar Modern Data Stack!")
